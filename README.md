@@ -1,6 +1,6 @@
 ## <i> DUHA TWAM</i>
 
-🎓 I am a university student**, majoring in **Information Systems and Computer Applications** with a focus on **Cybersecurity**.  
+🎓 I am a university student, majoring in **Information Systems and Computer Applications** with a focus on **Cybersecurity**.  
 🌐 Passionate about **Web Development**, **Cybersecurity**
 
 ---
