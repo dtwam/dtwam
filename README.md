@@ -29,4 +29,4 @@
 ## 📫 Contact Me
 - GitHub: [dtwam](https://github.com/dtwam)  
 - Email: **dtwam7@gmail.com**  
-- LinkedIn: [Duha Twam](https://www.linkedin.com/in/duha-twam-7b4023334)  
+- LinkedIn: [Duha Twam]
